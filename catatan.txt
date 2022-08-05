@@ -1,4 +1,4 @@
 WEBSITE TOPSIS
 - Merevisi website 2 kali seminggu
 - Membuat fitur-fitur pada website
--
+- Menyelesaikan BAB 4. dan BAB 5.
